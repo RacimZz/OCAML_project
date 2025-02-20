@@ -57,3 +57,6 @@ Pour exécuter ce projet, **OCaml** doit être installé sur votre machine. Util
     let nouvelle_config = mettre_a_jour_configuration conf_reggae (Du((0, -1, 1), (-1, -1, 2)));;
     affiche nouvelle_config;;
     ```
+
+# Auteurs
+Racim ZENATI & Arris ZAIDI
